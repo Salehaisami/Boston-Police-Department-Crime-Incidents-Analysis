@@ -9,3 +9,13 @@ In this brief analysis, we'll be dealing with the Boston Police Department file 
     3) How did the most 3 committed crimes change during the years?
 
     4) Which day hosted the highest number of crimes for each of the four years? Month? What hour of the day?
+    
+    
+    
+All files acquired from the BPD official website:
+https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
+
+Files included:
+- Data.csv: record for all incidents
+-field_explain.csv: explains what each column in data.csv stands for
+- offense_codes.csv: dictionary for the abbreviated offense codes defining what each represents
