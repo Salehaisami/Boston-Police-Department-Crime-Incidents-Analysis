@@ -17,5 +17,5 @@ https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-sourc
 
 Files included:
 - Data.csv: record for all incidents
--field_explain.csv: explains what each column in data.csv stands for
+- field_explain.csv: explains what each column in data.csv stands for
 - offense_codes.csv: dictionary for the abbreviated offense codes defining what each represents
